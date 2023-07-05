@@ -1,0 +1,26 @@
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+.margin-text{
+   
+    height: 100%;
+    width: 25%;
+    color:  rgb(9, 236, 232);
+    font-size: xx-large;
+}
+#about-me-text{
+    color:rgb(9, 236, 232);
+    font-size: medium;
+}
+#Contact-info{
+    display: flex;
+    align-content: space-between;
+    justify-content: flex-end;
+    align-items: flex-end;
+    font-size: xx-large;
+    color:rgb(9, 236, 232);
+    margin-left: 50px;
+}
+#last{
+    margin-right: 800px;
+}
